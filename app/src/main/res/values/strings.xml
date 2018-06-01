@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Template</string>
+
+    <string name="ok">Tamam</string>
+    <string name="reject">İptal Et</string>
+    <string name="cancel">İPTAL ET</string>
+    <string name="close">Kapat</string>
+    <string name="send">GÖNDER</string>
+    <string name="back">Geri</string>
+
+    <string name="dialog_title_warning">Uyarı</string>
+    <string name="dialog_connection_error_message">Lütfen internet bağlantınızı kontrol ediniz.</string>
+    <string name="dialog_empty_message">Lütfen boş alanları doldurunuz.</string>
+    <string name="dialog_error_message">Üzgünüz, lütfen tekrar deneyiniz.</string>
+    <string name="dialog_waiting_message">Lütfen bekleyiniz...</string>
+    <string name="dialog_internet_title">Bağlantı sorunu.</string>
+    <string name="dialog_internet_message">Lütfen internet bağlantınızı kontrol ediniz.</string>
+    <string name="dialog_success">Başarılı.</string>
+    <string name="dialog_error_login">Kullanıcı adınız ve şifreniz eşleşmedi.</string>
+    <string name="dialog_common_message">Beklenmeyen bir hata oluştu.</string>
+    <string name="dialog_logout">Çıkış yapmak istediğinize emin misiniz?</string>
+    <string name="dialog_error_password">Şifreniz en az 6 karakterden oluşmalıdır.</string>
+    <string name="dialog_delete_block">Bu kullanıcının engelini kaldırmak \n istediğinize emin misiniz?</string>
+    <string name="dialog_kill_warning">Beklenmeyen bir hata oluştu.</string>
+
+</resources>
